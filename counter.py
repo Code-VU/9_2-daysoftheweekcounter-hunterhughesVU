@@ -5,8 +5,8 @@ def countDayOfTheWeek():
     f = open(file_name, "r")
 
     weekCount = {
-      "Thu": 0,
       "Fri": 0,
+      "Thu": 0,
       "Sat": 0
     }
 
